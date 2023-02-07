@@ -220,3 +220,15 @@ main h3, main a, .Results h3 {
     justify-content: center;
   }
 }
+
+.zoom-modal {
+  cursor: zoom-in;
+  z-index: 2000;
+user-select: none;
+pointer-events: none;
+opacity: 1;
+  /* background-image: url("../img/33860894418_9be8ab8a9b_o.jpg");
+  background-size: auto;
+  background-clip: padding-box; */
+}
+
